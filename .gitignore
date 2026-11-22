@@ -1,0 +1,6 @@
+yolo11l.pt
+*.jsonl
+*.done
+*.state
+.venv/
+__pycache__/
